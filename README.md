@@ -1,2 +1,2 @@
-# DVE
-Driver Visual Evaluator
+# VDE
+Visual Driver Evaluator
